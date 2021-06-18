@@ -1,0 +1,25 @@
+{
+  "name": "cep-finder",
+  "version": "1.0.0",
+  "description": "API for CEP",
+  "main": "index.js",
+  "engines": {
+    "node": ">=12 <15"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src"
+  },
+  "author": "lucas.volgarini",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^20.1.4",
+    "@hapi/inert": "^6.0.3",
+    "@hapi/vision": "^6.1.0",
+    "fs": "0.0.1-security",
+    "hapi-swagger": "^14.2.0",
+    "http-status": "^1.5.0",
+    "joi": "^17.4.0",
+    "path": "^0.12.7"
+  }
+}
