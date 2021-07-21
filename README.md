@@ -39,7 +39,7 @@
 
 <h1 align="center">Swagger</h1>
 
-<p>Estrutura para <a href="https://neat-sunspot-317319.rj.r.appspot.com/">documentação da API</a>. Com o Swagger os endpoints são facilmente acessados pelo navegador.</p>
+<p>Estrutura para documentação da API. Com o Swagger os endpoints são facilmente acessados pelo navegador.</p>
 
 <h1 align="center">Executando a API</h1>
 
